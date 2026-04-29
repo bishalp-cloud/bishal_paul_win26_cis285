@@ -1,0 +1,6 @@
+{
+  "name": "CIS285 Final Dev Container",
+  "build": {
+    "dockerfile": "Dockerfile"
+  }
+}
